@@ -76,7 +76,7 @@ GLOBAL_LIST_INIT(derangement_phrases,list(
 			"derangement", \
 		)
 	COOLDOWN_START(src, next_process, process_interval)
-	handle_malk_floors()
+//handle_malk_floors()
 
 // largely taken from https://github.com/The-Final-Nights/The-Final-Nights/pull/287
 // based on the work of maaacha
